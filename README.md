@@ -17,7 +17,7 @@ offering smart, personalized support across key areas of agriculture.
 Farmers can ask questions and get instant, AI-powered advice on crop care, pest control, irrigation, and more.
 
 
-  <img width="935" height="438" alt="{24D631C1-B952-476F-BC94-C083A279E012}" src="https://github.com/user-attachments/assets/e6ea85e2-c528-4c57-913e-1233eb08c8db" />
+  <img width="632" height="310" alt="{24D631C1-B952-476F-BC94-C083A279E012}" src="https://github.com/user-attachments/assets/e6ea85e2-c528-4c57-913e-1233eb08c8db" />
 
 
   
@@ -37,7 +37,7 @@ Timely forecasts and region-specific alerts help farmers prepare for rain, droug
   It highlights relevant subsidies and programs farmers may be eligible for—like drip irrigation support or crop insurance.
 
  
-  <img width="933" height="434" alt="{F0508427-6228-4473-8D4D-08496F8D072B}" src="https://github.com/user-attachments/assets/1b8ba643-3272-4312-8eca-4d6feed2a0c2" /> 
+  <img width="632" height="310" alt="{F0508427-6228-4473-8D4D-08496F8D072B}" src="https://github.com/user-attachments/assets/1b8ba643-3272-4312-8eca-4d6feed2a0c2" /> 
 
   
 
@@ -46,6 +46,6 @@ Timely forecasts and region-specific alerts help farmers prepare for rain, droug
 Tailored suggestions based on crop type and local conditions to improve yield and reduce waste
 
 
-   <img width="930" height="436" alt="{848996C7-BAD8-4C3A-AB8B-9034A20BE623}" src="https://github.com/user-attachments/assets/9e6bd44d-877d-4438-9ea3-75da72fdf4ed" />
+   <img width="632" height="310" alt="{848996C7-BAD8-4C3A-AB8B-9034A20BE623}" src="https://github.com/user-attachments/assets/9e6bd44d-877d-4438-9ea3-75da72fdf4ed" />
 
 
