@@ -330,7 +330,8 @@
             const generateAIResponse = (userQuery) => {
                 const query = userQuery.toLowerCase();
                 
-                // Crop-specific responses
+                // Crop-specific responses- For now 
+                // In Future we will replace this with OpenAI API 
                 if (query.includes("wheat")) {
                     return "For wheat cultivation, I recommend using 100 kg/ha of urea at sowing and during tillering stage. Also consider 120 kg/ha of DAP as basal application. For pest control in wheat, Chlorpyriphos at 4 L/ha for termite control is effective.";
                 }
@@ -934,17 +935,17 @@
                                     </li>
                                     <li className="flex items-center">
                                         <i className="fas fa-phone mr-2 text-gray-400"></i>
-                                        <span className="text-gray-400">+91 1800-123-4567</span>
+                                        <span className="text-gray-400">+91 1800-XXX-XXXX</span>
                                     </li>
                                     <li className="flex items-center">
                                         <i className="fas fa-map-marker-alt mr-2 text-gray-400"></i>
-                                        <span className="text-gray-400">New Delhi, India</span>
+                                        <span className="text-gray-400">Bengaluru, India</span>
                                     </li>
                                 </ul>
                             </div>
                         </div>
                         <div className="border-t border-gray-700 mt-8 pt-8 text-center text-gray-400">
-                            <p>© 2023 AI-Agri Advisor. All rights reserved.</p>
+                            <p>© 2025 AI-Agri Advisor. All rights reserved.</p>
                         </div>
                     </div>
                 </footer>
